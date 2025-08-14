@@ -28,5 +28,5 @@ It uses **Power BI** for interactive dashboards, along with **data cleaning** an
 ## Contact
 **Author:** Stuti Rao  
 **GitHub:** [Stutirao24](https://github.com/Stutirao24)  
-**Email:** your_email@example.com
+**Email:** stutirao24@gmail.com
 
