@@ -5,7 +5,7 @@ This project analyzes Amazon product sales data to identify trends, top-performi
 It uses **Power BI** for interactive dashboards, along with **data cleaning** and **transformation** steps for accurate insights.
 
 ## Dataset
-- **Source:** Amazon product sales dataset (provide link if public)
+- **Source:** Amazon product sales dataset
 
 ##  Data Preparation
 - Cleaned missing values and duplicates
